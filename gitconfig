@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = cvsgl.dyg@gmail.com
+	name = Duygu Cavusoglu
